@@ -1,1 +1,1 @@
-#Intro to Computing Graphics Final Project
+# Intro to Computing Graphics Final Project
