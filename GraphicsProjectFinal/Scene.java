@@ -106,7 +106,7 @@ public class Scene extends JFrame implements GLEventListener, KeyListener
 	public void init(GLAutoDrawable drawable){
 		GL4 gl = (GL4) GLContext.getCurrentGL();
 	
-		myObj = new ImportedModel("../shuttle.obj");
+		myObj = new ImportedModel("/Project3Files/shuttle.obj");
 	
 		createShaderPrograms();
 		setupVertices();
